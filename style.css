@@ -5,7 +5,7 @@
 .container {
     height: 100vh;
     width: 100%;
-    background-image: url(imager/background.png);
+    background-image: url(images/background.png);
     background-repeat: center;
     background-size: cover;
     padding-left: 5%;
@@ -32,7 +32,7 @@
     flex: 1;
     padding-left: 60px;
 }
-    nav ul il{
+    nav ul li{
         display: inline-block;
         list-style: none;
         margin:0px 20px;
